@@ -20,8 +20,8 @@
    + routes: easily services routes exposition
    + monitoring/auditing (advanced metrics/logging)
    + lifecycle app management (developer workflow: CI/CD pipelines, Source-to-Image(S2I - containers images from source)
-    1. pod definition
-    2. pod assignation to a healthy cluster node
-    3. pods running until containers finish
-    4. pods & containers removing/retained to logs review	
+     1. pod definition
+     2. pod assignation to a healthy cluster node
+     3. pods running until containers finish
+     4. pods & containers removing/retained to logs review	
 
