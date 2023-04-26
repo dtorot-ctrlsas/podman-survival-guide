@@ -8,7 +8,7 @@
   + **containers (container engine)**: podman, orchestration tools: RHOCP, Kubernetes (portable on OCI-compliant engine)
 + **Multi-container Applications:** distributed across several containers (_compose-spec_), include ephemeral/persistent containers to supply storage, networking, etc.
 + **Kubernetes:** containers orchestration service (deployment, management, scaling, high uptime, fault tolerance)
-    + manages pools of resources (CPU, RAM, Storage, networking, horizontal scaling, self-healing, automated rollout, secrets/conf management,inter-service communication by assign DNS entries to each set of containers)
+    + manages pools of resources (CPU, RAM, Storage, networking, horizontal scaling, self-healing, automated rollout, secrets/conf management, inter-service communication by assign DNS entries to each set of containers)
   + **pod:** small manageable unit (SINGLE APP with ONE to N containers and its resources) 
   + **operators:** kubernetes apps that update the cluster state and react to changes in application state
 + **RHOCP:** Red Hat OpenShift Container Platform
