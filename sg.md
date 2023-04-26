@@ -12,16 +12,16 @@
   + **pod:** small manageable unit (SINGLE APP with ONE to N containers and its resources) 
   + **operators:** kubernetes apps that update the cluster state and react to changes in application state
 + **RHOCP:** Red Hat OpenShift Container Platform
- + add components and services to kubernetes
-   + Unified UI/remote management
-   + load balancing simplified
-   + multitenancy
-   + increased security 
-   + routes: easily services routes exposition
-   + monitoring/auditing (advanced metrics/logging)
-   + lifecycle app management (developer workflow: CI/CD pipelines, Source-to-Image(S2I - containers images from source)
-     1. pod definition
-     2. pod assignation to a healthy cluster node
-     3. pods running until containers finish
-     4. pods & containers removing/retained to logs review	
+  + add components and services to kubernetes
+    + Unified UI/remote management
+    + load balancing simplified
+    + multitenancy
+    + increased security 
+    + routes: easily services routes exposition
+    + monitoring/auditing (advanced metrics/logging)
+    + lifecycle app management (developer workflow: CI/CD pipelines, Source-to-Image(S2I - containers images from source)
+      1. pod definition
+      2. pod assignation to a healthy cluster node
+      3. pods running until containers finish
+      4. pods & containers removing/retained to logs review	
 
